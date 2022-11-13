@@ -17,7 +17,7 @@ mason_lspconfig.setup({
 		"cssls",
 		"sumneko_lua",
 		"vue-language-server",
-		-- "csharp",
+		"omnisharp",
 	},
 })
 
